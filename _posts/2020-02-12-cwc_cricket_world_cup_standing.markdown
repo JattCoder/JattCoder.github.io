@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "CWC (Cricket World Cup) Standing"
-date:       2020-02-13 03:34:52 +0000
+date:       2020-02-12 22:34:53 -0500
 permalink:  cwc_cricket_world_cup_standing
 ---
 
