@@ -16,7 +16,7 @@ Simply, adding data from web and/or adding data from user inputs and viewing it 
 
 As of 2020, CWC 2019 standing should look like this.
 
-![](https://drive.google.com/file/d/1I0juIewaNt3_mT3L2aNcx72BafQl4w2X/view?usp=sharing)
+![(https://drive.google.com/file/d/1I0juIewaNt3_mT3L2aNcx72BafQl4w2X/view?usp=sharing]()
 
 
 To view final details (Total Matches playes, wins, losses, draw and final score), select it by entering the position number.
