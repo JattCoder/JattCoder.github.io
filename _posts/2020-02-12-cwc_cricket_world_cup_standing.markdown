@@ -21,12 +21,12 @@ As of 2020, CWC 2019 standing should look like this.
 
 To view final details (Total Matches playes, wins, losses, draw and final score), select it by entering the position number.
 
-![](https://drive.google.com/open?id=1PSUPnDupG4-BkcKxxqtGK2YDVrejVFdA)
+![](http://drive.google.com/open?id=1PSUPnDupG4-BkcKxxqtGK2YDVrejVFdA)
 
 
 After modifying the data of CWC Standing, this is how it should look like. Position 4 is changed from New Zealand to Spain and added new team Brazil.
 
-![](https://drive.google.com/file/d/1G4tpRE1pRdwEOuXLy7xn45friKTdy2nR/view?usp=sharing)
+![](http://drive.google.com/file/d/1G4tpRE1pRdwEOuXLy7xn45friKTdy2nR/view?usp=sharing)
 
 In order to install this gem. Add this gem into application's Gemfile:
 
