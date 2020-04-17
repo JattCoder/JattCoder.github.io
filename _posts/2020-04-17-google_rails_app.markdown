@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Google Rails App"
-date:       2020-04-17 15:30:58 +0000
+date:       2020-04-17 11:30:59 -0400
 permalink:  google_rails_app
 ---
 
