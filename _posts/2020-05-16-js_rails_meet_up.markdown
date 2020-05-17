@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "JS Rails: Meet Up"
-date:       2020-05-17 03:37:22 +0000
+date:       2020-05-16 23:37:23 -0400
 permalink:  js_rails_meet_up
 ---
 
